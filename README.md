@@ -130,7 +130,7 @@ Your Question
 Every time you want to use the app:
 
 ```bash
-cd C:\Users\kiran\OneDrive\Desktop\llamachat
+cd C:\Users\xxxxx/xxxxx\Desktop\llamachat
 py -3.11 -m streamlit run app.py
 ```
 

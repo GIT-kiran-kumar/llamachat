@@ -65,7 +65,7 @@ ollama pull llama3.2:1b
 
 ### Step 3 — Clone This Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/llamachat.git
+git clone https://github.com/GIT-kiran-kumar/llamachat.git
 cd llamachat
 ```
 

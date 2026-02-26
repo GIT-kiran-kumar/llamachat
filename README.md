@@ -1,6 +1,7 @@
 # llamachat
 Local AI chat app using Ollama + Llama + ChromaDB + Streamlit
-#🦙 LlamaDoc Chat
+
+# 🦙 LlamaDoc Chat
 
 A fully local, private AI-powered document chat application built with **Ollama + Llama 3.2 + ChromaDB + Streamlit**.
 

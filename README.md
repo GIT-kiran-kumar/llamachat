@@ -79,7 +79,7 @@ py -3.11 -m pip install streamlit chromadb sentence-transformers requests antigr
 py -3.11 -m streamlit run app.py
 ```
 
-Open your browser at **http://localhost:8501** 🎉
+Open your browser at **http://localhost:xxxx** 🎉
 
 ---
 
@@ -130,7 +130,7 @@ Your Question
 Every time you want to use the app:
 
 ```bash
-cd C:\Users\xxxxx/xxxxx\Desktop\llamachat
+cd C:\Users\xxxxx\xxxxx\Desktop\llamachat
 py -3.11 -m streamlit run app.py
 ```
 
